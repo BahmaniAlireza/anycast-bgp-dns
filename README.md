@@ -3,11 +3,11 @@
 The purpose of creating this project is to show the capability of BGP-ANYCAST network.
 
 # Requirments:
-1- vagrant
-2- virtualbox
+1- vagrant  
+2- virtualbox  
 
 # Network digram:
- ![bgp any cast network digram](bgp-anycast-dns.jpg)
+       ![bgp any cast network digram](bgp-anycast-dns.jpg)
 
 # How to install and run this project:
 
