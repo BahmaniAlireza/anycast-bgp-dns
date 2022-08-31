@@ -5,7 +5,7 @@
 ![GitHub Repo stars](https://img.shields.io/github/stars/BahmaniAlireza/anycast-bgp-dns?style=social)
 
 # Project Goal:
-The purpose of creating this project is to show the capability of BGP-ANYCAST network.
+The purpose of creating this project is to show the capability of BGP-ANYCAST network and PowerDNS.
 
 # Requirments:
 1- vagrant  
@@ -77,7 +77,7 @@ you can ping 169.254.0.1 from each client.
 
     
 # Test scenario 3:
-Uset tcp dump on each server to see what kind of traffic comes.
+Use tcp dump on each server to see what kind of traffic comes.
 
     #vagrant ssh client1 
 
@@ -116,4 +116,10 @@ Uset tcp dump on each server to see what kind of traffic comes.
 
 # Use cases:
 Best use case of using BGP-ANYCAST is for stateless services such as DNS service.
+
+# References:
+1- [PowerDNS installation](https://doc.powerdns.com/authoritative/installation.html)   
+2- [PowerDNS basic setup](https://doc.powerdns.com/authoritative/guides/basic-database.html)   
+3- [DNS Anycast: Using BGP for DNS High-Availability](https://yetiops.net/posts/anycast-bgp/#summary)   
+4- [BGP Anycast Best Practices & Configurations](https://www.noction.com/blog/bgp-anycast)   
 
