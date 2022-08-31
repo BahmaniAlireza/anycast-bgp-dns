@@ -1,3 +1,8 @@
+![GitHub](https://img.shields.io/github/license/BahmaniAlireza/anycast-bgp-dns)
+![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/BahmaniAlireza/anycast-bgp-dns)
+![GitHub repo file count](https://img.shields.io/github/directory-file-count/BahmaniAlireza/anycast-bgp-dns)
+![GitHub all releases](https://img.shields.io/github/downloads/BahmaniAlireza/anycast-bgp-dns/total)
+![GitHub Repo stars](https://img.shields.io/github/stars/BahmaniAlireza/anycast-bgp-dns?style=social)
 
 # Project Goal:
 The purpose of creating this project is to show the capability of BGP-ANYCAST network.
